@@ -1,2 +1,2 @@
-# git-lab3-teamChanges by Nikita Minaev
-Changes by Nikita Minaev
+# git-lab3-team
+Changes from first developer
